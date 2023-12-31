@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinit Patidar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-![coding](https://github.com/Vinit-patidar-03/vinit-patidar-03/assets/117593724/9418c195-e937-4a21-b3a5-2d9586ec67c6)
+
+<img src="https://github.com/Vinit-patidar-03/vinit-patidar-03/assets/117593724/9418c195-e937-4a21-b3a5-2d9586ec67c6" alt"coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinit-patidar-03&label=Profile%20views&color=0e75b6&style=flat" alt="vinit-patidar-03" /> </p>
 

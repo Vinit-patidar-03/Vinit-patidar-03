@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinit Patidar</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>![coding](https://github.com/Vinit-patidar-03/vinit-patidar-03/assets/117593724/972ed6fe-8a94-413f-87d3-87df8cd8af83)
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinit-patidar-03&label=Profile%20views&color=0e75b6&style=flat" alt="vinit-patidar-03" /> </p>

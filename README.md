@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vinit Patidar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
+
+![](https://github.com/Vinit-patidar-03/vinit-patidar-03/assets/117593724/4f48437d-ce4f-479a-96ab-9f20b8e9132a)
+
 # 💫 About Me:
 🔭 I’m currently working on problem solving. <br>👯 I’m looking to collaborate on web development Projects.<br>🌱 I’m currently learning data structures and algorithms. <br>💬 Ask me about Full Stack Development. 
 
-![](https://github.com/Vinit-patidar-03/vinit-patidar-03/assets/117593724/4f48437d-ce4f-479a-96ab-9f20b8e9132a)
+
 
 # 💻 Tech 
 Stack:

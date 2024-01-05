@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Vinit Patidar</h1>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 # 💫 About Me:
 🔭 I’m currently working on problem solving. <br>👯 I’m looking to collaborate on web development Projects.<br>🌱 I’m currently learning data structures and algorithms. <br>💬 Ask me about Full Stack Development. 
 

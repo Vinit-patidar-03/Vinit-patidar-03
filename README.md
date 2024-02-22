@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vinit Patidar</h1>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
+<h1>Hi 👋, I'm Vinit Patidar</h1>
+<h3>A Passionate Full Stack Developer from India</h3>
 
 ![](https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif)
 

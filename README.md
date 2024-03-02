@@ -4,7 +4,7 @@
 ![](https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif)
 
 # 💫 About Me:
-🔭 I’m currently working on problem solving. <br>👯 I’m looking to collaborate on web development Projects.<br>🌱 I’m currently learning data structures and algorithms. <br>💬 Ask me about Full Stack Development. 
+🔭 I’m currently working on problem solving. <br>👯 I’m looking to collaborate on web development Projects.<br>🌱 I’m currently learning data structures and algorithms.<br>❤️ I love solving development errors. <br>💬 Ask me about Full Stack Development.
 
 
 

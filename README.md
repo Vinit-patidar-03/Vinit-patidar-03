@@ -1,7 +1,5 @@
 <h1>Hi 👋, I'm Vinit Patidar</h1>
-<h3>A Passionate Full Stack Developer from India</h3>
-
-![](https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif)
+<h5>Full Stack Web Developer with a passion for innovation and continuous learning. Proficient in front-end and back-end technologies, adept at creating responsive and user-friendly web applications. Currently exploring the realms of Machine Learning and sharpening skills in Data Structures and Algorithms. Committed to leveraging technology to solve real-world problems and drive meaningful impact. Open to new opportunities and collaborations in the dynamic tech landscape. Let's connect and build something great together</h5>
 
 # 💫 About Me:
 🔭 I’m currently working on problem solving. <br>👯 I’m looking to collaborate on web development Projects.<br>🌱 I’m currently learning data structures and algorithms.<br>❤️ I love solving development errors. <br>💬 Ask me about Full Stack Development.
